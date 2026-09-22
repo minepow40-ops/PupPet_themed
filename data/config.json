@@ -1,0 +1,69 @@
+{
+  "ticket_category_id": 1551515723560394845,
+  "log_channel_id": 1551515726995529778,
+  "transcript_channel_id": 1551515726085492786,
+  "staff_roles": [
+    1551515669026177077,
+    1551515670553042995,
+    1551515673174212638,
+    1551515673702703147,
+    1551515678383673345
+  ],
+  "admin_roles": [
+    1551515669026177077,
+    1551515670553042995,
+    1551515673174212638,
+    1551515673702703147
+  ],
+  "ticket_settings": {
+    "max_tickets_per_user": 1,
+    "auto_close_warning_hours": 24,
+    "auto_close_hours": 48,
+    "transcript_enabled": true,
+    "rating_enabled": true,
+    "notes_enabled": true
+  },
+  "categories": {
+    "support": {
+      "emoji": "🆘",
+      "label": "Support",
+      "color": 3447003
+    },
+    "report": {
+      "emoji": "🚨",
+      "label": "Report",
+      "color": 15548997
+    },
+    "partnership": {
+      "emoji": "🤝",
+      "label": "Partnership",
+      "color": 10181046
+    },
+    "purchase": {
+      "emoji": "💰",
+      "label": "Purchase",
+      "color": 3066993
+    },
+    "dev_help": {
+      "emoji": "💻",
+      "label": "Developer Help",
+      "color": 16776960
+    },
+    "application": {
+      "emoji": "📝",
+      "label": "Staff Application",
+      "color": 15105570
+    }
+  },
+  "priority_colors": {
+    "low": 3066993,
+    "medium": 16776960,
+    "high": 15548997
+  },
+  "embeds": {
+    "panel_title": "PupPet Support",
+    "panel_description": "Welcome to **PupPet** support!\nPlease select the category that best matches your inquiry below.\n\n> 🆘 **Support** — General help & questions\n> 🚨 **Report** — Report a player or issue\n> 🤝 **Partnership** — Partnership inquiries\n> 💰 **Purchase** — Billing & purchases\n> 💻 **Developer Help** — Development questions\n> 📝 **Staff Application** — Apply for staff\n\n*Our team will assist you as soon as possible.*",
+    "panel_footer": "PupPet • Ticket System",
+    "panel_color": 5793266
+  }
+}
